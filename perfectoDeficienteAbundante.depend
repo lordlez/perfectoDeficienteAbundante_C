@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648597756 source:d:\unlam\progra2022\tp1\ej7\perfectodeficienteabundante\funciones.c
+
+1648600255 source:d:\unlam\progra2022\tp1\ej7\perfectodeficienteabundante\main.c
+	"header.h"
+
+1648600617 d:\unlam\progra2022\tp1\ej7\perfectodeficienteabundante\header.h
+	<stdio.h>
+	<stdlib.h>
+
